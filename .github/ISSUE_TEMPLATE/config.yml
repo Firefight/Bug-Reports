@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Join our discord:
+    url: https://discord.firefig.ht
+    about: Our community discord server is useful for chatting with other members about issues, bugs, and gameplay before submitting official reports.
+  - name: Join our Forum
+    url: https://forum.firefig.ht
+    about: You can view in game feedback given here, as well as have open conversations about specific topics with the community.
